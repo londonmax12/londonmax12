@@ -1,0 +1,15 @@
+![alt text](https://forthebadge.com/images/badges/built-with-love.svg)
+![alt text](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
+![alt text](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)
+![alt text](https://forthebadge.com/images/badges/it-works-why.svg)
+![alt text](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)
+
+![alt text](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![alt text](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![alt text](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![alt text](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![alt text](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=londonmax12)
