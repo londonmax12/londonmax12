@@ -16,10 +16,10 @@
 ## About Me 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a factory game  
+- 🔭 I’m currently working on an intermediate GUI libraru
   
 
-- 🌱 I’m currently learning Unity and C#  
+- 🌱 I’m currently learning C#  
   
 
 - ⚡ Main Language: C++  
