@@ -16,7 +16,7 @@
 ## About Me 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on an intermediate GUI library
+- 🔭 I’m currently working on a Game Boy emulator
   
 
 - 🌱 I’m currently learning C#  
