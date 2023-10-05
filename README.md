@@ -16,10 +16,10 @@
 ## About Me 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a Game Boy emulator
+- 🔭 I’m currently working on a compiler
   
 
-- 🌱 I’m currently learning C#  
+- 🌱 I’m currently learning Assembly  
   
 
 - ⚡ Main Language: C++  
