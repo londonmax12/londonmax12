@@ -25,13 +25,11 @@
 
 ## About Me 
 
-- 🔨 I’m currently working on a compiler
+- 🔨 I’m currently working on a Web vulnerability scanner
   
+- 📖 I’m currently learning about securing systems
 
-- 📖 I’m currently learning Assembly  
-  
-
-- ⚡ Main Language: C++  
+- ⚡ Main Languages: Python, Typescript  
 
 
 ## Languages and Tools  
